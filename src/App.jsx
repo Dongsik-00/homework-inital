@@ -62,6 +62,70 @@ function App() {
         >
          ✈️ 여행
         </a>
+        <a
+          className="link-button"
+          href="https://hello-virid-eight.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         안녕하세요
+        </a>
+        <a
+          className="link-button"
+          href="https://cat-lilac-iota.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         고양이
+        </a>
+        <a
+          className="link-button"
+          href="https://redsquare.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         🟥네모
+        </a>
+        <a
+          className="link-button"
+          href="https://yellosquare.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         🟨네모
+        </a>
+        <a
+          className="link-button"
+          href="https://webgaebal.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         웹개발
+        </a>
+        <a
+          className="link-button"
+          href="https://basketball-erex.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         노랑밑줄
+        </a>
+        <a
+          className="link-button"
+          href="https://basketball-iota-brown.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         🏀
+        </a>
+        <a
+          className="link-button"
+          href="https://quiz14-2.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         🟨🟥🟦
+        </a>
       </div>
     </div>
   );
